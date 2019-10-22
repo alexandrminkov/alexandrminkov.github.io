@@ -184,7 +184,7 @@ footer{
     text-align:center;
     width:100%;
   }
-  h1{
+  .container h1{
     font: 6px/1.5 Arial, Helvetica,sans-serif;
   }
   header{
