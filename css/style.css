@@ -184,15 +184,14 @@ footer{
     text-align:center;
     width:100%;
   }
-  #showcase .container h1{
-    font: 6px/1.5 Arial, Helvetica,sans-serif;
-  }
+  
   header{
     padding-bottom:20px;
   }
 
   #showcase h1{
     margin-top:40px;
+    font-size:30px
   }
 
   #newsletter button, .quote button{
