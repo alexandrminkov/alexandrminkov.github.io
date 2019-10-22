@@ -184,7 +184,9 @@ footer{
     text-align:center;
     width:100%;
   }
-
+  h1{
+    font: 12px/1.5 Arial, Helvetica,sans-serif;
+  }
   header{
     padding-bottom:20px;
   }
